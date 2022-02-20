@@ -10,7 +10,7 @@
 .container {
     width: 100vw;
     height: 100vh;
-    background: #006494;
+    background: #228B22;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -29,7 +29,7 @@
     margin-left: 35px;
     margin-right: 35px;
     margin-bottom: 10px;
-    background-color: #247ba0;
+    background-color: #228B22;
     border-radius: 10px;
     padding: 12px;
 }
