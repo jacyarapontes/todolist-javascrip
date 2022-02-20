@@ -28,7 +28,7 @@ function removeAtividade(atividade){
 }
 
 function removeAtividades(){ 
-    console.log("entrou");
+    
     while(listaAtividades.firstElementChild){
     listaAtividades.removeChild(listaAtividades.firstElementChild);
     }
