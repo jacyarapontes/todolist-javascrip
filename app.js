@@ -8,14 +8,7 @@ const paleta1 = document.querySelector("#paleta1")
 const paleta2 = document.querySelector("#paleta2")
 const paleta3 = document.querySelector("#paleta3")
 
-console.log(container);
-console.log(listaAtividades);
-console.log(input);
-console.log(erro);
-console.log(botaoCadastra);
-console.log(paleta1);
-console.log(paleta2);
-console.log(paleta3);
+
 
 paleta1.addEventListener('click', () => definePaleta ('seagreen'));
 paleta2.addEventListener('mousemove', () => definePaleta ('slateblue'));
